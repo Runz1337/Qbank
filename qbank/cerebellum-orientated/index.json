@@ -1,0 +1,107 @@
+{
+  "sourceTitle": "Cerebellum Orientated",
+  "totalSubjects": 19,
+  "totalQuestions": 14821,
+  "subjects": {
+    "Anatomy": {
+      "file": "/qbank/cerebellum-orientated/anatomy.json",
+      "totalLessons": 11,
+      "totalQuestions": 789
+    },
+    "Physiology": {
+      "file": "/qbank/cerebellum-orientated/physiology.json",
+      "totalLessons": 9,
+      "totalQuestions": 929
+    },
+    "Biochemistry": {
+      "file": "/qbank/cerebellum-orientated/biochemistry.json",
+      "totalLessons": 8,
+      "totalQuestions": 862
+    },
+    "Pathology": {
+      "file": "/qbank/cerebellum-orientated/pathology.json",
+      "totalLessons": 15,
+      "totalQuestions": 724
+    },
+    "Pharmacology": {
+      "file": "/qbank/cerebellum-orientated/pharmacology.json",
+      "totalLessons": 13,
+      "totalQuestions": 733
+    },
+    "Microbiology": {
+      "file": "/qbank/cerebellum-orientated/microbiology.json",
+      "totalLessons": 8,
+      "totalQuestions": 755
+    },
+    "Forensic Medicine": {
+      "file": "/qbank/cerebellum-orientated/forensic-medicine.json",
+      "totalLessons": 13,
+      "totalQuestions": 617
+    },
+    "Community Medicine": {
+      "file": "/qbank/cerebellum-orientated/community-medicine.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "ENT": {
+      "file": "/qbank/cerebellum-orientated/ent.json",
+      "totalLessons": 5,
+      "totalQuestions": 1000
+    },
+    "Ophthalmology": {
+      "file": "/qbank/cerebellum-orientated/ophthalmology.json",
+      "totalLessons": 12,
+      "totalQuestions": 517
+    },
+    "Medicine": {
+      "file": "/qbank/cerebellum-orientated/medicine.json",
+      "totalLessons": 36,
+      "totalQuestions": 2502
+    },
+    "Surgery": {
+      "file": "/qbank/cerebellum-orientated/surgery.json",
+      "totalLessons": 10,
+      "totalQuestions": 890
+    },
+    "Obstetrics & Gynecology": {
+      "file": "/qbank/cerebellum-orientated/obstetrics-gynecology.json",
+      "totalLessons": 27,
+      "totalQuestions": 1341
+    },
+    "Pediatrics": {
+      "file": "/qbank/cerebellum-orientated/pediatrics.json",
+      "totalLessons": 16,
+      "totalQuestions": 479
+    },
+    "Orthopedics": {
+      "file": "/qbank/cerebellum-orientated/orthopedics.json",
+      "totalLessons": 11,
+      "totalQuestions": 953
+    },
+    "Dermatology": {
+      "file": "/qbank/cerebellum-orientated/dermatology.json",
+      "totalLessons": 16,
+      "totalQuestions": 538
+    },
+    "Psychiatry": {
+      "file": "/qbank/cerebellum-orientated/psychiatry.json",
+      "totalLessons": 19,
+      "totalQuestions": 460
+    },
+    "Radiology": {
+      "file": "/qbank/cerebellum-orientated/radiology.json",
+      "totalLessons": 16,
+      "totalQuestions": 327
+    },
+    "Anesthesiology": {
+      "file": "/qbank/cerebellum-orientated/anesthesiology.json",
+      "totalLessons": 14,
+      "totalQuestions": 405
+    }
+  },
+  "media": {
+    "referenced": 10276,
+    "copiedNow": 10276,
+    "path": "/qbank/cerebellum-orientated-media/"
+  }
+}
