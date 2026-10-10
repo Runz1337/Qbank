@@ -1,0 +1,107 @@
+{
+  "sourceTitle": "DAMS",
+  "totalSubjects": 19,
+  "totalQuestions": 40899,
+  "subjects": {
+    "Anatomy": {
+      "file": "/qbank/dams/anatomy.json",
+      "totalLessons": 72,
+      "totalQuestions": 2783
+    },
+    "Physiology": {
+      "file": "/qbank/dams/physiology.json",
+      "totalLessons": 40,
+      "totalQuestions": 2125
+    },
+    "Biochemistry": {
+      "file": "/qbank/dams/biochemistry.json",
+      "totalLessons": 41,
+      "totalQuestions": 2224
+    },
+    "Pathology": {
+      "file": "/qbank/dams/pathology.json",
+      "totalLessons": 47,
+      "totalQuestions": 2708
+    },
+    "Pharmacology": {
+      "file": "/qbank/dams/pharmacology.json",
+      "totalLessons": 61,
+      "totalQuestions": 3279
+    },
+    "Microbiology": {
+      "file": "/qbank/dams/microbiology.json",
+      "totalLessons": 47,
+      "totalQuestions": 2506
+    },
+    "Forensic Medicine": {
+      "file": "/qbank/dams/forensic-medicine.json",
+      "totalLessons": 22,
+      "totalQuestions": 1274
+    },
+    "Community Medicine": {
+      "file": "/qbank/dams/community-medicine.json",
+      "totalLessons": 41,
+      "totalQuestions": 2815
+    },
+    "ENT": {
+      "file": "/qbank/dams/ent.json",
+      "totalLessons": 33,
+      "totalQuestions": 1183
+    },
+    "Ophthalmology": {
+      "file": "/qbank/dams/ophthalmology.json",
+      "totalLessons": 21,
+      "totalQuestions": 1476
+    },
+    "Medicine": {
+      "file": "/qbank/dams/medicine.json",
+      "totalLessons": 108,
+      "totalQuestions": 3756
+    },
+    "Surgery": {
+      "file": "/qbank/dams/surgery.json",
+      "totalLessons": 75,
+      "totalQuestions": 4067
+    },
+    "Obstetrics & Gynecology": {
+      "file": "/qbank/dams/obstetrics-gynecology.json",
+      "totalLessons": 52,
+      "totalQuestions": 2780
+    },
+    "Pediatrics": {
+      "file": "/qbank/dams/pediatrics.json",
+      "totalLessons": 31,
+      "totalQuestions": 1617
+    },
+    "Orthopedics": {
+      "file": "/qbank/dams/orthopedics.json",
+      "totalLessons": 31,
+      "totalQuestions": 1035
+    },
+    "Dermatology": {
+      "file": "/qbank/dams/dermatology.json",
+      "totalLessons": 30,
+      "totalQuestions": 1221
+    },
+    "Psychiatry": {
+      "file": "/qbank/dams/psychiatry.json",
+      "totalLessons": 22,
+      "totalQuestions": 1359
+    },
+    "Radiology": {
+      "file": "/qbank/dams/radiology.json",
+      "totalLessons": 25,
+      "totalQuestions": 1502
+    },
+    "Anesthesiology": {
+      "file": "/qbank/dams/anesthesiology.json",
+      "totalLessons": 23,
+      "totalQuestions": 1189
+    }
+  },
+  "media": {
+    "referenced": 9381,
+    "copiedNow": 9381,
+    "path": "/qbank/dams-media/"
+  }
+}
