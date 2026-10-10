@@ -1,0 +1,462 @@
+{
+  "subject": "Pathology",
+  "sourceTitle": "All In One Online",
+  "title": "eGurukul · Pathology - AIIMS MAY 2018",
+  "deckName": "created by tele @Neet_pg_bot::eguru::pyq::patho pyq::Pathology - AIIMS MAY 2018",
+  "questions": [
+    {
+      "id": "all-in-one-1760436365992",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 1,
+      "stemHtml": "A middle aged immunocompromised male came with fever and breathlessness. HRCT showed a middle lobe lesion with infiltration. Lung biopsy from the lesion is shown in the image below. What will be the most likely diagnosis?<br/><img src=\"images/image_374_1_1.jpg\"/>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tuberculous pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Cryptogenic organizing pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Small cell carcinoma lung"
+        },
+        {
+          "label": "D",
+          "text": "CMV pneumonia"
+        }
+      ],
+      "answer": "D",
+      "answerText": "CMV pneumonia",
+      "solutionHtml": "<b>CMV pneumonia</b><br/><ul><li>The given clinical scenario and histopathological image showing presence of <strong>intranuclear inclusions</strong> ( <strong>owl eyes inclusions) </strong>in the lung biopsy in an <strong>immunocompromised patient </strong>suggests the diagnosis of <strong>CMV pneumonia. </strong></li><li>CMV (Cytomegalovirus) pneumonia is commonly seen in immunocompromised individuals, such as the middle-aged immunocompromised male described in the scenario.</li><li>CMV is a member of the <strong>herpesvirus family</strong> and can cause <strong>opportunistic infections</strong> in individuals with weakened immune systems.</li><li>The presence of fever, breathlessness, and an infiltrative middle lobe lesion on HRCT are consistent with CMV pneumonia.</li></ul><img src=\"images/exp_374_1_1.jpg\"/><p><u>https://images.app.goo.gl/CJunpk2D1GocAT4m8</u></p><br/><img src=\"images/exp_374_1_1.jpg\"/><br/><br/><div class=\"quiz-references\">Robbins & Cotran Pathologic Basis of Disease, 10th Edition, Chapter 13</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436365994",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 2,
+      "stem": "Which of the following malignancy is least commonly associated with lymphatic spread?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Basal cell carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Malignant melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Merkel cell carcinoma"
+        }
+      ],
+      "answer": "A",
+      "answerText": "Basal cell carcinoma",
+      "solutionHtml": "<b>Basal cell carcinoma</b><br/><br/><div class=\"quiz-references\">Robbins & Cotran Pathologic Basis of Disease, 10th Edition, Page No. 270, 1147-1149</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436365996",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 3,
+      "stemHtml": "A 12-year-old boy had a cut in his forearm 4 days ago. Now the bleeding has been stopped due to granulation tissue formation. While taking a skin biopsy a part of the granulation tissue was also included in the specimen. The histology of granulation tissue is shown below. Which type of collagen is found in this granulation tissue?<br/><img src=\"images/image_374_3_1.jpg\"/>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type 1"
+        },
+        {
+          "label": "B",
+          "text": "Type 2"
+        },
+        {
+          "label": "C",
+          "text": "Type 3"
+        },
+        {
+          "label": "D",
+          "text": "Type 4"
+        }
+      ],
+      "answer": "C",
+      "answerText": "Type 3",
+      "solutionHtml": "<b>Type 3</b><br/><br/><div class=\"quiz-references\">Robbins & Cotran Pathologic Basis of Disease, 10th Edition, Page No. 107, 110</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436365998",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 4,
+      "stem": "Which of the following is the correct sequence of cellular events of acute inflammation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rolling—Stable adhesion—Activation of integrins—Migration via endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Rolling—Activation of integrins—Stable adhesion—Migration via endothelium"
+        },
+        {
+          "label": "C",
+          "text": "Stable adhesion—Rolling—Activation of integrins—Migration via endothelium"
+        },
+        {
+          "label": "D",
+          "text": "Activation of integrins—Migration via endothelium—Stable adhesion—Rolling"
+        }
+      ],
+      "answer": "B",
+      "answerText": "Rolling—Activation of integrins—Stable adhesion—Migration via endothelium",
+      "solutionHtml": "<b>Rolling—Activation of integrins—Stable adhesion—Migration via endothelium</b><br/><br/><div class=\"quiz-references\">Robbins & Cotran Pathologic Basis of Disease, 10th Edition, Page No. 75</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436366000",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 5,
+      "stem": "A 5-year-old child was presenting with proptosis. Microscopic examination of the mass has revealed a round cell tumor positive for Desmin immunohistochemical marker. Most likely diagnosis would be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Embryonal rhabdomyosarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Primitive Neuroectodermal Tumor (PNET)"
+        }
+      ],
+      "answer": "B",
+      "answerText": "Embryonal rhabdomyosarcoma",
+      "solutionHtml": "<b>Embryonal rhabdomyosarcoma</b><br/><ul><li>Based on the provided information, the most likely diagnosis for a 5-year-old child presenting with proptosis and a <strong>round cell tumor positive for the Desmin</strong> immunohistochemical marker would be <strong> Embryonal rhabdomyosarcoma.</strong></li></ul><br/><br/>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436366002",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 6,
+      "stem": "Which among the following laboratory investigations is best to reveal about bleeding in disseminated intravascular coagulation (DIC)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased PT"
+        },
+        {
+          "label": "B",
+          "text": "Increased aPTT"
+        },
+        {
+          "label": "C",
+          "text": "Decreased fibrinogen"
+        },
+        {
+          "label": "D",
+          "text": "Increased FDPs"
+        }
+      ],
+      "answer": "D",
+      "answerText": "Increased FDPs",
+      "solutionHtml": "<b>Increased FDPs</b><br/><ul><li>Two types of DIC are <strong>acute</strong> (decompensated) and <strong>chronic</strong> (compensated).</li><li>In <strong>acute DIC</strong>, there is <strong>rapid activation of coagulation</strong> leading to <strong>bleeding</strong> from <strong>consumption of coagulation factors</strong>. Findings in <strong>acute DIC</strong> are <strong>low platelet, prolonged PT and APTT, low fibrinogen, and increased FDP and D-dimer</strong>.</li><li>In <strong>chronic DIC</strong>, there is <strong>slow activation</strong> <strong>of coagulation</strong> with <strong>slow consumption of coagulation factors</strong>. Findings are <strong>normal platelet count, normal PT and APTT</strong>. However, <strong>FDP and D-dimer are increased</strong>. <strong>So in acute DIC, all the four options are correct</strong>, while if we consider the question as chronic DIC, then the <strong>best possible answer is increased FDP</strong>.</li></ul><br/><br/><div class=\"quiz-references\">Robbins & Cotran Pathologic Basis of Disease, 10th Edition, Page No. 130</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436366004",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 7,
+      "stem": "For the action of heparin as an anticoagulant, availability of which chemical substance is mandatory?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thrombin"
+        },
+        {
+          "label": "B",
+          "text": "Plasmin"
+        },
+        {
+          "label": "C",
+          "text": "Antithrombin-III"
+        },
+        {
+          "label": "D",
+          "text": "Thrombomodulin"
+        }
+      ],
+      "answer": "C",
+      "answerText": "Antithrombin-III",
+      "solutionHtml": "<b>Antithrombin-III</b><br/><ul><li><strong>Heparin per se does not possess any inherent anticoagulant action.</strong></li><li><strong>Antithrombin-III</strong> is an <strong>endogenous anticoagulant plasma protein</strong>—acts as a “<strong>Suicide substrate</strong>” and <strong>neutralizes the action of certain key coagulation factors</strong> involved in intrinsic and common coagulation pathway.</li><img src=\"images/exp_374_7_1.jpg\"/><li><strong>Binding of Heparin to Antithrombin-III accelerates the rate of neutralization </strong>of the <strong>activated factors (IIa, Xa, IXa, XIa and XIIa) </strong>by a 1000 fold. Hence, <strong>heparin exerts its anticoagulant effect indirectly through Antithrombin-III</strong>.</li></ul><br/><img src=\"images/exp_374_7_1.jpg\"/><br/><br/><div class=\"quiz-references\">Robbins & Cotran Pathologic Basis of Disease, 10th Edition, Page No. 127, 128</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436366006",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 8,
+      "stem": "Biopsy from an 8-year-old child with leg swelling was showing small round blue tumor cells consistent with diagnosis of Ewing’s sarcoma. What will be the best method to detect translocation t(11,22) in this malignancy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conventional karyotyping"
+        },
+        {
+          "label": "B",
+          "text": "Next generation sequencing"
+        },
+        {
+          "label": "C",
+          "text": "FISH"
+        },
+        {
+          "label": "D",
+          "text": "PCR"
+        }
+      ],
+      "answer": "C",
+      "answerText": "FISH",
+      "solutionHtml": "<b>FISH</b><br/><ul><li><strong>FISH</strong> is a <strong>molecular cytogenetic technique </strong>that uses <strong>fluorescent probes </strong>that bind to only those parts of the chromosome with a high degree of sequence complementarity.</li><li><strong>Chromosome analysis </strong>or<strong> karyotyping </strong>is a test that <strong>evaluates the number and structure of a person’s chromosomes in order to detect abnormalities</strong>.</li><li><strong>Polymerase chain reaction (PCR)</strong> is a technique used in molecular biology to <strong>amplify a single copy or a few copies of a segment of DNA</strong> across several orders of magnitude, generating thousands to millions of copies of a particular DNA sequence.</li><li><strong>Next generation sequencing (NGS)</strong>, massively <strong>parallel or deep sequencing </strong>are related terms that describe a <strong>DNA sequencing technology which has revolutionized genomic research</strong>.</li></ul><br/><br/>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436366008",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 9,
+      "stem": "Which of the following is true regarding blood transfusion of packed RBC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Should be started within 4 hours of receiving it from blood bank"
+        },
+        {
+          "label": "B",
+          "text": "Should be completed within 4 hours of receiving from blood bank"
+        },
+        {
+          "label": "C",
+          "text": "Wait till the patient is stable then transfuse, irrespective of any timing"
+        },
+        {
+          "label": "D",
+          "text": "Should be completed within 6 hours of receiving from blood bank"
+        }
+      ],
+      "answer": "B",
+      "answerText": "Should be completed within 4 hours of receiving from blood bank",
+      "solutionHtml": "<b>Should be completed within 4 hours of receiving from blood bank</b><br/><ul><li>The blood <strong>transfusion of packed red blood cells (RBCs)</strong> should be <strong>completed within 4 hours of receiving</strong> from the blood bank.</li><li>Transfusion of blood should be <strong>commenced within 30 minutes after removing it from the refrigerator</strong> and should be completed within 4 hours of starting transfusion.</li><li>Indication for transfusing whole blood is for correction of both hypovolemia and red cell mass, such as acute massive blood loss.2</li></ul><br/><br/>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436366010",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 10,
+      "stem": "Storage temperature of RBC, platelet, and fresh frozen plasma (FFP) are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "RBC: 2-6°C, Platelet: 20-22°C, FFP: -30°C"
+        },
+        {
+          "label": "B",
+          "text": "RBC: 30°C, FFP: -2-6°C, Platelet: 20-22°C"
+        },
+        {
+          "label": "C",
+          "text": "RBC: 20-22°C, Platelet: 2-6°C, FFP: -30°C"
+        },
+        {
+          "label": "D",
+          "text": "RBC: 20-22°C, FFP: -30°C, Platelet: 2-6°C"
+        }
+      ],
+      "answer": "A",
+      "answerText": "RBC: 2-6°C, Platelet: 20-22°C, FFP: -30°C",
+      "solutionHtml": "<b>RBC: 2-6°C, Platelet: 20-22°C, FFP: -30°C</b><br/><ul><li>The <strong>correct storage temperatures</strong> for RBC (Red Blood Cells), platelets, and fresh frozen plasma (FFP) are as follows: <strong>Option A. RBC: 2-6°C, Platelet: 20-22°C, FFP: -30°C</strong></li><li>According to standard blood banking and transfusion guidelines:</li></ul><ol><li><strong>RBCs</strong> should be stored at a temperature range of <strong>2-6°C.</strong></li></ol><ul><li>This temperature range <strong>helps to preserve the viability and function</strong> of the red blood cells during storage.</li></ul><ol start=\"2\"><li><strong>Platelets</strong>, on the other hand, are stored at a slightly <strong>higher temperature range of 20-22°C </strong></li></ol><ul><li>Platelets are <strong>sensitive to cold temperatures and need to be stored at room temperature</strong> to maintain their functionality.</li></ul><ol start=\"3\"><li><strong>Fresh frozen plasma (FFP)</strong> is stored at a <strong>temperature of -30°C or </strong>lower to maintain its <strong>stability and prevent degradation</strong></li></ol><br/><br/>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436366012",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 11,
+      "stem": "Abnormality in elastin protein can lead to all except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fractures"
+        },
+        {
+          "label": "B",
+          "text": "Aortic aneurysm"
+        },
+        {
+          "label": "C",
+          "text": "Joint laxity"
+        },
+        {
+          "label": "D",
+          "text": "Subluxation of lens"
+        }
+      ],
+      "answer": "A",
+      "answerText": "Fractures",
+      "solutionHtml": "<b>Fractures</b><br/><ul><li>Abnormality in elastin protein can lead to various medical conditions, but <strong>fractures are not typically associated with elastin protein abnormalities. </strong></li><li>Elastin is a key component of connective tissues and is responsible for providing elasticity and resilience to tissues and organs.</li><li>Mutations or deficiencies in elastin can result in structural abnormalities in different parts of the body.</li></ul><br/><br/>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436366014",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 12,
+      "stemHtml": "A middle aged immunocompromised man came with fever and breathlessness. HRCT showed a middle lobe lesion with infiltration. Lung biopsy from the lesion is given below what would be the probable diagnosis?<br/><img src=\"images/image_374_12_1.jpg\"/>",
+      "options": [
+        {
+          "label": "A",
+          "text": "CMV organizing pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Cryptogenic organizing pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Small cell carcinoma lung"
+        },
+        {
+          "label": "D",
+          "text": "Organized pneumonia with tuberculosis"
+        }
+      ],
+      "answer": "A",
+      "answerText": "CMV organizing pneumonia",
+      "solutionHtml": "<b>CMV organizing pneumonia</b><br/><p>Infected cells are generally large with a prominent basophilic nuclear inclusion, often with a clear halo, and smaller basophilic cytoplasmic inclusions are also present Mononuclear infiltrates, usually mild edema and Pneumocyte hyperplasia Hemorrhagic and necrosis present In lung, usually infects endothelial and epithelial cells and alveolar histiocytes.</p><br/><br/>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436366016",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 13,
+      "stemHtml": "Toluidine blue staining is used for identification of:<br/><img src=\"images/image_374_13_1.jpg\"/>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mast cell"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblast"
+        },
+        {
+          "label": "C",
+          "text": "Melanocyte"
+        },
+        {
+          "label": "D",
+          "text": "Macrophages"
+        }
+      ],
+      "answer": "A",
+      "answerText": "Mast cell",
+      "solutionHtml": "<b>Mast cell</b><br/><ul><li><strong>Toluidine blue </strong>staining is commonly used in histology and pathology to <strong>identify and visualize mast cells.</strong> Therefore, the correct answer is A.Mast cell.</li></ul><br/><br/><div class=\"quiz-references\">Robbins & Cotran Pathologic Basis of Disease, 10th Edition, Page No. 62-65,  Bancroft’s histological techniques, 8th Edition</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436366018",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 14,
+      "stem": "AI-illustrated practice adaptation — not the original exam image. A worker with prolonged occupational exposure to asbestos insulation develops diffuse interstitial pulmonary fibrosis. The teaching schematic represents golden-brown coated fibres with beaded contours and bulbous ends. Which pneumoconiosis best fits this exposure and clinical setting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asbestosis",
+          "html": "Asbestosis"
+        },
+        {
+          "label": "B",
+          "text": "Byssinosis",
+          "html": "Byssinosis"
+        },
+        {
+          "label": "C",
+          "text": "Coal workers’ pneumoconiosis",
+          "html": "Coal workers’ pneumoconiosis"
+        },
+        {
+          "label": "D",
+          "text": "Silicosis",
+          "html": "Silicosis"
+        }
+      ],
+      "answer": "A",
+      "answerText": "Asbestosis",
+      "solutionHtml": "<div class=\"explanation\"><p>Asbestosis is diffuse interstitial pulmonary fibrosis caused by inhaled asbestos. Asbestos bodies are fibres coated with iron-containing protein; the schematic exaggerates their beaded outline for teaching. Such bodies indicate exposure and must be interpreted with the exposure history and fibrosis, not as an isolated proof of disease. Byssinosis is associated with cotton dust, coal workers’ pneumoconiosis with coal dust, and silicosis with crystalline silica.</p><p><a href=\"https://archive.cdc.gov/www_atsdr_cdc_gov/csem/asbestos/respiratory_conditions_associated_with_asbestos.html\" target=\"_blank\" rel=\"noopener noreferrer\">Medical reference</a></p><p>AI-illustrated practice adaptation — not the original exam image. Original wording retained in the editorial backup.</p></div>",
+      "tags": "",
+      "stemHtml": "<div class=\"question\"><p><strong>AI-illustrated practice adaptation — not the original exam image.</strong></p><p>A worker with prolonged occupational exposure to asbestos insulation develops diffuse interstitial pulmonary fibrosis. The teaching schematic represents golden-brown coated fibres with beaded contours and bulbous ends. Which pneumoconiosis best fits this exposure and clinical setting?</p><figure><img src=\"images/asbestos-850917a19713.png\" alt=\"asbestos conceptual teaching schematic\" style=\"max-width:100%;height:auto\"/><figcaption>AI-generated schematic, not a patient image or original examination figure. Not to scale.</figcaption></figure></div>",
+      "solution": "Asbestosis is diffuse interstitial pulmonary fibrosis caused by inhaled asbestos. Asbestos bodies are fibres coated with iron-containing protein; the schematic exaggerates their beaded outline for teaching. Such bodies indicate exposure and must be interpreted with the exposure history and fibrosis, not as an isolated proof of disease. Byssinosis is associated with cotton dust, coal workers’ pneumoconiosis with coal dust, and silicosis with crystalline silica."
+    },
+    {
+      "id": "all-in-one-1760436366020",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 15,
+      "stem": "Which of the following is not a provisional entity according to Revised WHO-2016 classification of Acute leukemia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AML with BCR-ABL 1"
+        },
+        {
+          "label": "B",
+          "text": "AML with hyperploidy"
+        },
+        {
+          "label": "C",
+          "text": "Early T-cell precursor leukemia/lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "B-ALL with BCR-ABL like mutation"
+        }
+      ],
+      "answer": "B",
+      "answerText": "AML with hyperploidy",
+      "solutionHtml": "<b>AML with hyperploidy</b><br/><ul><li>AML with hyperploidy is not considered a provisional entity in the Revised WHO-2016 classification.</li></ul><br/><br/><div class=\"quiz-references\">Robbins & Cotran Pathologic Basis of Disease, 10th Edition, Page No. 622-624</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436366022",
+      "topic": "eGurukul · Pathology - AIIMS MAY 2018",
+      "number": 16,
+      "stem": "Special stain for acidic mucin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PAS"
+        },
+        {
+          "label": "B",
+          "text": "Alcian blue"
+        },
+        {
+          "label": "C",
+          "text": "GMS"
+        },
+        {
+          "label": "D",
+          "text": "Masson trichrome"
+        }
+      ],
+      "answer": "B",
+      "answerText": "Alcian blue",
+      "solutionHtml": "<b>Alcian blue</b><br/><ul><li><strong>Alcian blue </strong>is a special stain commonly used to <strong>detect and visualize acidic mucins in tissues. </strong></li><li>Acidic mucins are a type of <strong>glycoprotein that contains sialic acid and sulfate residues. </strong></li><li>When tissues are stained with Alcian blue, it selectively binds to acidic mucins, resulting in a <strong>blue or turquoise color. </strong></li><li>This staining technique is particularly useful in identifying <strong>mucin-producing cells and structures, such as goblet cells</strong> in the gastrointestinal tract or mucous glands in respiratory tissues.</li></ul><br/><br/><div class=\"quiz-references\">Robbins & Cotran Pathologic Basis of Disease, 10th Edition, Page No. 62-65,  Bancroft’s histological techniques, 8th Edition</div>",
+      "tags": ""
+    }
+  ]
+}
