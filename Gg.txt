@@ -1,0 +1,2037 @@
+curl 'https://medcorepro.gohere.in/cdn-cgi/rum?' \
+  -X 'POST' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'content-length: 684' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=4, i' \
+  -H 'referer: https://medcorepro.gohere.in/?app=qbank' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcorepro.gohere.in/cdn-cgi/rum?' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/?app=qbank' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  --data-raw '{"startTime":1791641994773,"pageloadId":"a4d7a929-6d10-4dc9-bb48-7ed23de0fe06","n":2,"eventType":1,"nt":"routing-apis","location":"https://medcorepro.gohere.in/","referrer":"https://medcorepro.gohere.in/","versions":{"fl":"2024.11.0","js":"2026.10.0","timings":1},"bi":{"be":"Blink","bev":"140","bv":"140"},"ntapi":1,"siteToken":"4d4cb0954d6a499aa6dde05eaf0514df","st":2}' ;
+curl 'https://medcore-api.gohere.in/api/health' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Crect%20x%3D%223%22%20y%3D%223%22%20width%3D%2258%22%20height%3D%2258%22%20rx%3D%2215%22%20fill%3D%22%23f5f3ff%22%20opacity%3D%220.72%22%2F%3E%3Crect%20x%3D%2216%22%20y%3D%2210%22%20width%3D%2232%22%20height%3D%2244%22%20rx%3D%226%22%20fill%3D%22%238b5cf6%22%20fill-opacity%3D%220.14%22%2F%3E%3Crect%20x%3D%2216%22%20y%3D%2210%22%20width%3D%2232%22%20height%3D%2244%22%20rx%3D%226%22%20stroke%3D%22%238b5cf6%22%20stroke-width%3D%224.4%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M24%2025h16M24%2034h16M25%2044l4%204%2010-12%22%20stroke%3D%22%238b5cf6%22%20stroke-width%3D%224.4%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20fill%3D%22none%22%2F%3E%3C%2Fsvg%3E' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'Referer;' ;
+curl 'data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Crect%20x%3D%223%22%20y%3D%223%22%20width%3D%2258%22%20height%3D%2258%22%20rx%3D%2215%22%20fill%3D%22%23e6f5f2%22%20opacity%3D%220.72%22%2F%3E%3Cpath%20d%3D%22M18%208h20l10%2010v38H18z%22%20fill%3D%22%230f766e%22%20fill-opacity%3D%220.14%22%2F%3E%3Cpath%20d%3D%22M18%208h20l10%2010v38H18zM38%208v12h10M25%2031h16M25%2040h16M25%2049h10%22%20stroke%3D%22%230f766e%22%20stroke-width%3D%224.4%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20fill%3D%22none%22%2F%3E%3C%2Fsvg%3E' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'Referer;' ;
+curl 'https://medcore-api.gohere.in/api/plan-settings?siteId=qbank' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/qbank/platform-visibility' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/notifications' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/health' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/qbank/progress' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/qbank/subtopic-labels' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/qbank/source-labels' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/me' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/plan-settings?siteId=qbank' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5MCwiZXhwIjoxNzk0MjMzOTkwfQ.ZfLeDndMSl5E-wIbNIRGt6tTXEV_Jar7lCM7E4peXEE' \
+  -H 'content-type: application/json' \
+  -H 'if-none-match: W/"34-BUWtcc5LDNU4IGfi90U6JHELeOI"' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/api/qbank/platform-visibility' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5MCwiZXhwIjoxNzk0MjMzOTkwfQ.ZfLeDndMSl5E-wIbNIRGt6tTXEV_Jar7lCM7E4peXEE' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/api/notifications' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5MCwiZXhwIjoxNzk0MjMzOTkwfQ.ZfLeDndMSl5E-wIbNIRGt6tTXEV_Jar7lCM7E4peXEE' \
+  -H 'content-type: application/json' \
+  -H 'if-none-match: W/"24-YWEFQlZ+emHwBOEVevqncEYu21k"' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/api/health' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5MCwiZXhwIjoxNzk0MjMzOTkwfQ.ZfLeDndMSl5E-wIbNIRGt6tTXEV_Jar7lCM7E4peXEE' \
+  -H 'content-type: application/json' \
+  -H 'if-none-match: W/"1c6-A6MJFnVPhZxvqL5ZTbDc69f/KsY"' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/api/qbank/progress' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5MCwiZXhwIjoxNzk0MjMzOTkwfQ.ZfLeDndMSl5E-wIbNIRGt6tTXEV_Jar7lCM7E4peXEE' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/api/qbank/subtopic-labels' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5MCwiZXhwIjoxNzk0MjMzOTkwfQ.ZfLeDndMSl5E-wIbNIRGt6tTXEV_Jar7lCM7E4peXEE' \
+  -H 'content-type: application/json' \
+  -H 'if-none-match: W/"d-gQOGiD7LJUgh5gdATvb49L34Al4"' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/api/qbank/source-labels' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5MCwiZXhwIjoxNzk0MjMzOTkwfQ.ZfLeDndMSl5E-wIbNIRGt6tTXEV_Jar7lCM7E4peXEE' \
+  -H 'content-type: application/json' \
+  -H 'if-none-match: W/"a5-x0Xy7ts0RpGdZgqW6kLW2G4z4iA"' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/api/me' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5MCwiZXhwIjoxNzk0MjMzOTkwfQ.ZfLeDndMSl5E-wIbNIRGt6tTXEV_Jar7lCM7E4peXEE' \
+  -H 'content-type: application/json' \
+  -H 'if-none-match: W/"4bb-uxpUI7ToxKG2fWiOB2No/UAhWqk"' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/eguru/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/btr-2-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-x/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/dams/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/dams-topics/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-pyq-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-ed8/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/eguru/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-topics/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/btr-2-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-x/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/dams/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/dams-topics/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-pyq-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-ed8/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-topics/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-test-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/btr-grand-test/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-fmge-special/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/all-in-one-online/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2025/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2024/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2023/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2022/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2021/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2019/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2018/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2017/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2016/index.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/api/qbank/subjective/index' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-test-orientated/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/btr-grand-test/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-fmge-special/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/all-in-one-online/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2025/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2024/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2023/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2022/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2021/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2019/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2018/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2017/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/upsc-cms-past-years/2016/index.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/qbank/subjective/index' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/eguru/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/btr-2-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/eguru/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/btr-2-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-x/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/dams/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-x/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/dams/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/dams-topics/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-pyq-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-ed8/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-topics/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-test-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/all-in-one-online/medicine.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/dams-topics/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-pyq-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-ed8/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-topics/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-test-orientated/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/all-in-one-online/medicine.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/me/mobile' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: PATCH' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/me/mobile' \
+  -X 'PATCH' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' \
+  --data-raw '{"mobile":"1581505815015"}' ;
+curl 'https://medcore-api.gohere.in/api/qbank/platform-visibility' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/api/qbank/platform-visibility' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/health' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/qbank/bookmarks' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/qbank/attempt-keys' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/eguru/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/btr-2-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-x/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/dams/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/dams-topics/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-pyq-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/qbank/bookmarks' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/api/qbank/attempt-keys' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/eguru/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/btr-2-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-x/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/dams/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/dams-topics/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-pyq-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-ed8/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-topics/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-test-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/all-in-one-online/anatomy.json?v=20260726-marrow-fmg-special' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-ed8/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-topics/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/cerebellum-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/marrow-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/prepladder-test-orientated/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/qbank/all-in-one-online/anatomy.json?v=20260726-marrow-fmg-special' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://www.google.com/s2/favicons?domain=egurukulapp.com&sz=128' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' ;
+curl 'https://www.google.com/s2/favicons?domain=cerebellumacademy.com&sz=128' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' ;
+curl 'https://www.google.com/s2/favicons?domain=prepladder.com&sz=128' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' ;
+curl 'https://www.google.com/s2/favicons?domain=damsdelhi.com&sz=128' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' ;
+curl 'https://www.google.com/s2/favicons?domain=marrow.com&sz=128' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' ;
+curl 'https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://egurukulapp.com&size=128' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'Referer;' ;
+curl 'https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://cerebellumacademy.com&size=128' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'Referer;' ;
+curl 'https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://prepladder.com&size=128' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'Referer;' ;
+curl 'https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://damsdelhi.com&size=128' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'Referer;' ;
+curl 'https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://marrow.com&size=128' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'Referer;' ;
+curl 'https://medcore-api.gohere.in/api/health' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/activity' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/qbank/attempts?subject=Anatomy&lessonKey=Anatomy%3A%3Amarrow-pyq%3A%3A01_Anatomy%20AIIMS%202017' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/activity' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' \
+  --data-raw '{"event":"quiz_view","itemId":"Anatomy::marrow-pyq::01_Anatomy AIIMS 2017","title":"01_Anatomy AIIMS 2017","subject":"Anatomy","source":"Marrow PYQ Orientated","questionIndex":0,"startedAt":"2026-10-10T14:20:26.587Z"}' ;
+curl 'https://medcore-api.gohere.in/api/qbank/attempts?subject=Anatomy&lessonKey=Anatomy%3A%3Amarrow-pyq%3A%3A01_Anatomy%20AIIMS%202017' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' ;
+curl 'https://medcorepro.gohere.in/qbank/marrow-pyq-orientated-media/img_2f8f5385.jpg' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/?app=qbank' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/qbank/attempts' \
+  -X 'OPTIONS' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'access-control-request-headers: authorization,content-type,x-learning-app' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' ;
+curl 'https://medcore-api.gohere.in/api/activity' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' \
+  --data-raw '{"event":"quiz_attempt","itemId":"Anatomy::marrow-pyq::01_Anatomy AIIMS 2017","title":"01_Anatomy AIIMS 2017","subject":"Anatomy","source":"Marrow PYQ Orientated","questionIndex":0,"durationSeconds":2.329,"isCorrect":true}' ;
+curl 'https://medcore-api.gohere.in/api/qbank/attempts' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGU4ZjU1MS02Mzg2LTQ5MmQtOWQ2Ni0zNTBkYTQ0YmI3MjciLCJlbWFpbCI6ImFzZGF3ZHF3ZEBhc2dtd2RjLmNvbSIsInVzZXJuYW1lIjoiYXNkYXdkcXdkQGFzZ213ZGMuY29tIiwicm9sZSI6InVzZXIiLCJuYW1lIjoiMmQyM2NzYyIsInNpZCI6IjM4ODI4ZDAxLWMwYTEtNGRkNy04ZDEyLWI3NjNkMTE0ZTM4MiIsImlhdCI6MTc5MTY0MTk5OSwiZXhwIjoxNzk0MjMzOTk5fQ.90YYVAP6vVGpTAiqKzsLoYuPzze6WvHotRjxVtwIwYo' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-learning-app: qbank' \
+  --data-raw '{"questionKey":"Anatomy::Anatomy::marrow-pyq::01_Anatomy AIIMS 2017::marrowpyq-1754997692890","subject":"Anatomy","lessonKey":"Anatomy::marrow-pyq::01_Anatomy AIIMS 2017","lessonTitle":"01_Anatomy AIIMS 2017","questionPath":"","originalLessonTitle":"01_Anatomy AIIMS 2017","questionId":"marrowpyq-1754997692890","questionIndex":0,"selectedAnswer":0,"correctAnswerIndexes":[0],"correctAnswerLabel":"A","answerText":"1","solution":"Correct answer: A. Structure 1 is the notochord, the embryonic source of the nucleus pulposus. Structure 2 is ectoderm, 3 is endoderm, and 4 is mesoderm. The annulus fibrosus instead develops from sclerotome. This separates the OCR-merged choices while retaining the original diagram.","solutionHtml":"<p><strong>Correct answer: A — 1</strong></p><p>Structure 1 is the notochord, the embryonic source of the nucleus pulposus. Structure 2 is ectoderm, 3 is endoderm, and 4 is mesoderm. The annulus fibrosus instead develops from sclerotome. This separates the OCR-merged choices while retaining the original diagram.</p><p><a href=\"https://www.ncbi.nlm.nih.gov/books/NBK535373/\" target=\"_blank\" rel=\"noopener noreferrer\">Reference</a> · <a href=\"https://pubmed.ncbi.nlm.nih.gov/19035356/\" target=\"_blank\" rel=\"noopener noreferrer\">Reference</a></p>","explanation":""}' ;
+curl 'https://medcore-api.gohere.in/api/health' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'origin: https://medcorepro.gohere.in' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://medcorepro.gohere.in/' \
+  -H 'sec-ch-ua: "Mises";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36'
