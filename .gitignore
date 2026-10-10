@@ -15,6 +15,12 @@ node_modules
 __pycache__/
 *.py[cod]
 
+# Redundant staging folders
+*-media/
+*-media
+mega_packages/
+.system_generated/
+
 # IDEs and editors
 /.idea
 .project
