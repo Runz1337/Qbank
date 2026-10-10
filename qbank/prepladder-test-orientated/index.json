@@ -1,0 +1,112 @@
+{
+  "sourceTitle": "Prepladder Test Orientated",
+  "totalSubjects": 20,
+  "totalQuestions": 32073,
+  "subjects": {
+    "Anatomy": {
+      "file": "/qbank/prepladder-test-orientated/anatomy.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Physiology": {
+      "file": "/qbank/prepladder-test-orientated/physiology.json",
+      "totalLessons": 1,
+      "totalQuestions": 75
+    },
+    "Biochemistry": {
+      "file": "/qbank/prepladder-test-orientated/biochemistry.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Pathology": {
+      "file": "/qbank/prepladder-test-orientated/pathology.json",
+      "totalLessons": 1,
+      "totalQuestions": 75
+    },
+    "Pharmacology": {
+      "file": "/qbank/prepladder-test-orientated/pharmacology.json",
+      "totalLessons": 1,
+      "totalQuestions": 75
+    },
+    "Microbiology": {
+      "file": "/qbank/prepladder-test-orientated/microbiology.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Forensic Medicine": {
+      "file": "/qbank/prepladder-test-orientated/forensic-medicine.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Community Medicine": {
+      "file": "/qbank/prepladder-test-orientated/community-medicine.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "ENT": {
+      "file": "/qbank/prepladder-test-orientated/ent.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Ophthalmology": {
+      "file": "/qbank/prepladder-test-orientated/ophthalmology.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Medicine": {
+      "file": "/qbank/prepladder-test-orientated/medicine.json",
+      "totalLessons": 1,
+      "totalQuestions": 50
+    },
+    "Surgery": {
+      "file": "/qbank/prepladder-test-orientated/surgery.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Obstetrics & Gynecology": {
+      "file": "/qbank/prepladder-test-orientated/obstetrics-gynecology.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Pediatrics": {
+      "file": "/qbank/prepladder-test-orientated/pediatrics.json",
+      "totalLessons": 1,
+      "totalQuestions": 75
+    },
+    "Orthopedics": {
+      "file": "/qbank/prepladder-test-orientated/orthopedics.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Dermatology": {
+      "file": "/qbank/prepladder-test-orientated/dermatology.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Psychiatry": {
+      "file": "/qbank/prepladder-test-orientated/psychiatry.json",
+      "totalLessons": 1,
+      "totalQuestions": 75
+    },
+    "Radiology": {
+      "file": "/qbank/prepladder-test-orientated/radiology.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Anesthesiology": {
+      "file": "/qbank/prepladder-test-orientated/anesthesiology.json",
+      "totalLessons": 0,
+      "totalQuestions": 0
+    },
+    "Prepladder Tests": {
+      "file": "/qbank/prepladder-test-orientated/prepladder-tests.json",
+      "totalLessons": 174,
+      "totalQuestions": 31648
+    }
+  },
+  "media": {
+    "referenced": 15655,
+    "copiedNow": 15655,
+    "path": "/qbank/prepladder-test-orientated-media/"
+  }
+}

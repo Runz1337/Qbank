@@ -1,0 +1,107 @@
+{
+  "sourceTitle": "Prepladder Orientated",
+  "totalSubjects": 19,
+  "totalQuestions": 13457,
+  "subjects": {
+    "Anatomy": {
+      "file": "/qbank/prepladder-orientated/anatomy.json",
+      "totalLessons": 62,
+      "totalQuestions": 1063
+    },
+    "Physiology": {
+      "file": "/qbank/prepladder-orientated/physiology.json",
+      "totalLessons": 40,
+      "totalQuestions": 684
+    },
+    "Biochemistry": {
+      "file": "/qbank/prepladder-orientated/biochemistry.json",
+      "totalLessons": 27,
+      "totalQuestions": 526
+    },
+    "Pathology": {
+      "file": "/qbank/prepladder-orientated/pathology.json",
+      "totalLessons": 79,
+      "totalQuestions": 1111
+    },
+    "Pharmacology": {
+      "file": "/qbank/prepladder-orientated/pharmacology.json",
+      "totalLessons": 56,
+      "totalQuestions": 899
+    },
+    "Microbiology": {
+      "file": "/qbank/prepladder-orientated/microbiology.json",
+      "totalLessons": 45,
+      "totalQuestions": 779
+    },
+    "Forensic Medicine": {
+      "file": "/qbank/prepladder-orientated/forensic-medicine.json",
+      "totalLessons": 29,
+      "totalQuestions": 436
+    },
+    "Community Medicine": {
+      "file": "/qbank/prepladder-orientated/community-medicine.json",
+      "totalLessons": 78,
+      "totalQuestions": 849
+    },
+    "ENT": {
+      "file": "/qbank/prepladder-orientated/ent.json",
+      "totalLessons": 30,
+      "totalQuestions": 389
+    },
+    "Ophthalmology": {
+      "file": "/qbank/prepladder-orientated/ophthalmology.json",
+      "totalLessons": 25,
+      "totalQuestions": 484
+    },
+    "Medicine": {
+      "file": "/qbank/prepladder-orientated/medicine.json",
+      "totalLessons": 87,
+      "totalQuestions": 1637
+    },
+    "Surgery": {
+      "file": "/qbank/prepladder-orientated/surgery.json",
+      "totalLessons": 78,
+      "totalQuestions": 1340
+    },
+    "Obstetrics & Gynecology": {
+      "file": "/qbank/prepladder-orientated/obstetrics-gynecology.json",
+      "totalLessons": 53,
+      "totalQuestions": 852
+    },
+    "Pediatrics": {
+      "file": "/qbank/prepladder-orientated/pediatrics.json",
+      "totalLessons": 44,
+      "totalQuestions": 675
+    },
+    "Orthopedics": {
+      "file": "/qbank/prepladder-orientated/orthopedics.json",
+      "totalLessons": 32,
+      "totalQuestions": 474
+    },
+    "Dermatology": {
+      "file": "/qbank/prepladder-orientated/dermatology.json",
+      "totalLessons": 36,
+      "totalQuestions": 319
+    },
+    "Psychiatry": {
+      "file": "/qbank/prepladder-orientated/psychiatry.json",
+      "totalLessons": 20,
+      "totalQuestions": 299
+    },
+    "Radiology": {
+      "file": "/qbank/prepladder-orientated/radiology.json",
+      "totalLessons": 21,
+      "totalQuestions": 356
+    },
+    "Anesthesiology": {
+      "file": "/qbank/prepladder-orientated/anesthesiology.json",
+      "totalLessons": 19,
+      "totalQuestions": 285
+    }
+  },
+  "media": {
+    "referenced": 2842,
+    "copiedNow": 2842,
+    "path": "/qbank/prepladder-orientated-media/"
+  }
+}
