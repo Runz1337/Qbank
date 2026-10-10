@@ -1,0 +1,238 @@
+{
+  "subject": "Physiology",
+  "sourceTitle": "All In One Online",
+  "title": "eGurukul · Pulmonary Ventilation - Compliance & Surface Tension",
+  "deckName": "created by tele @Neet_pg_bot::eguru::q banks::physio  e q bank::Pulmonary Ventilation - Compliance & Surface Tension",
+  "questions": [
+    {
+      "id": "all-in-one-1760436395726",
+      "topic": "eGurukul · Pulmonary Ventilation - Compliance & Surface Tension",
+      "number": 1,
+      "stem": "A patient with severe kyphoscoliosis presents with increasing dyspnea consistent with a decrease in chest wall compliance. With the contraction of the external intercostal muscles during inspiration, the Golgi tendon organ (GTO) provides the central nervous system with information about which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The length of the muscle being moved"
+        },
+        {
+          "label": "B",
+          "text": "The velocity of muscle movement"
+        },
+        {
+          "label": "C",
+          "text": "The blood flow to the muscle being moved"
+        },
+        {
+          "label": "D",
+          "text": "The tension developed by the muscle being moved"
+        }
+      ],
+      "answer": "D",
+      "answerText": "The tension developed by the muscle being moved",
+      "solutionHtml": "<b>The tension developed by the muscle being moved</b><br/><ul><li>The Golgi tendon organ (GTO) is a sensory receptor located at the junction between skeletal muscle and tendon that responds to changes in muscle tension or force. When the external intercostal muscles contract during inspiration,<strong> the GTO provides information to the central nervous system about the tension or force being developed by the muscle.</strong> This information helps to regulate and coordinate the movement of the chest wall during breathing.</li></ul><br/><br/><div class=\"quiz-references\">Ganong's Review of Medical Physiology, 26th Edition, Page Number: 133–135.</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436395728",
+      "topic": "eGurukul · Pulmonary Ventilation - Compliance & Surface Tension",
+      "number": 2,
+      "stem": "A 68-year-old patient with shortness of breath is referred for pulmonary function testing, including lung volumes, flow-volume curves, and lung compliance. Which one of the following statements best characterizes pulmonary compliance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is equivalent to ∆P/∆V"
+        },
+        {
+          "label": "B",
+          "text": "It is inversely related to the elastic recoil properties of the lung"
+        },
+        {
+          "label": "C",
+          "text": "It decreases with advancing age"
+        },
+        {
+          "label": "D",
+          "text": "It increases when there is a deficiency of surfactant"
+        }
+      ],
+      "answer": "B",
+      "answerText": "It is inversely related to the elastic recoil properties of the lung",
+      "solutionHtml": "<b>It is inversely related to the elastic recoil properties of the lung</b><br/><p><strong>Lung compliance is an index of lung distensibility</strong> or the ease with which the lungs are expanded; thus, compliance is the inverse of elastic recoil.</p><br/><br/><div class=\"quiz-references\">Ganong's Review of Medical Physiology, 26th Edition, Page No.654–657.</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436395730",
+      "topic": "eGurukul · Pulmonary Ventilation - Compliance & Surface Tension",
+      "number": 3,
+      "stem": "A 48-year-old coal miner complains of shortness of breath and a productive cough. The history reveals that he has smoked 1 to 2 packs of cigarettes per day since he was 16-year-old. Pulmonary function studies are ordered including an esophageal balloon study to measure intrapleural pressures. Normally, intrapleural pressure is negative throughout a tidal inspiration and expiration because of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The lungs have the tendency to recoil outward throughout a tidal breath"
+        },
+        {
+          "label": "B",
+          "text": "The chest wall has the tendency to recoil inward throughout a tidal breath"
+        },
+        {
+          "label": "C",
+          "text": "The intact pleura causes the lungs and chest wall to recoil away from each other throughout a tidal breath"
+        },
+        {
+          "label": "D",
+          "text": "The intact pleura causes the lungs and chest wall to recoil in the same direction throughout a tidal breath"
+        }
+      ],
+      "answer": "C",
+      "answerText": "The intact pleura causes the lungs and chest wall to recoil away from each other throughout a tidal breath",
+      "solutionHtml": "<b>The intact pleura causes the lungs and chest wall to recoil away from each other throughout a tidal breath</b><br/><p>During normal breathing, the lungs have the tendency to recoil inward, while the chest wall has the tendency to recoil outward. The space between the lungs and the chest wall is filled with pleural fluid, which creates a negative pressure in the intrapleural space. This negative pressure keeps the lungs inflated and causes the lungs and chest wall to move away from each other throughout a tidal breath.</p><br/><br/><br/><div class=\"quiz-references\">Ganong's Review of Medical Physiology, 26th Edition, Page No.665–655.</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436395732",
+      "topic": "eGurukul · Pulmonary Ventilation - Compliance & Surface Tension",
+      "number": 4,
+      "stem": "Surfactant is made up of which of the following:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Degradable products"
+        },
+        {
+          "label": "B",
+          "text": "Mucoprotein"
+        },
+        {
+          "label": "C",
+          "text": "Fibrinogen"
+        },
+        {
+          "label": "D",
+          "text": "Phospholipid"
+        }
+      ],
+      "answer": "D",
+      "answerText": "Phospholipid",
+      "solutionHtml": "<b>Phospholipid</b><br/><p>Surfactant is primarily composed of phospholipids, which are a type of lipid molecule that contains a <strong>hydrophilic (water-loving) head and a hydrophobic (water-fearing) tail.</strong></p><br/><br/><div class=\"quiz-references\">Guyton and Hall, Textbook of Medical Physiology, 14th Edition, Page Number: 536.</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436395734",
+      "topic": "eGurukul · Pulmonary Ventilation - Compliance & Surface Tension",
+      "number": 5,
+      "stem": "A patient with right lower lobar pneumonia exhibits increasing respiratory distress. The patient is intubated, placed on a mechanical ventilator, and positioned on his left side. The dependent lung is lower?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rate of alveolar ventilation per unit volume"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary blood flow"
+        },
+        {
+          "label": "C",
+          "text": "V/Q ratio"
+        },
+        {
+          "label": "D",
+          "text": "PaCO2"
+        }
+      ],
+      "answer": "C",
+      "answerText": "V/Q ratio",
+      "solutionHtml": "<b>V/Q ratio</b><br/><p>The dependent lung, which is the lung that is closer to the ground when <strong>the patient is positioned on his left side,</strong> is subject to a higher hydrostatic pressure and has a<strong> lower ventilation-perfusion (V/Q) ratio compared to the non-dependent lung.</strong></p><br/><br/><div class=\"quiz-references\">Ganong's Review of Medical Physiology, 26th Edition, Page No.662–663.</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436395736",
+      "topic": "eGurukul · Pulmonary Ventilation - Compliance & Surface Tension",
+      "number": 6,
+      "stemHtml": "<div class=\"question\"><p><strong>AI-illustrated practice adaptation — not the original exam image.</strong></p><p>During progressively increasing exercise, a person passes the first ventilatory threshold. Which description best characterises the change in ventilation beyond this threshold?</p></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ventilation stops increasing",
+          "html": "Ventilation stops increasing"
+        },
+        {
+          "label": "B",
+          "text": "Ventilation decreases as exercise intensity rises",
+          "html": "Ventilation decreases as exercise intensity rises"
+        },
+        {
+          "label": "C",
+          "text": "Ventilation becomes disproportionately high relative to oxygen consumption",
+          "html": "Ventilation becomes disproportionately high relative to oxygen consumption"
+        },
+        {
+          "label": "D",
+          "text": "Ventilation falls to zero between breaths",
+          "html": "Ventilation falls to zero between breaths"
+        }
+      ],
+      "answer": "C",
+      "answerText": "Ventilation becomes disproportionately high relative to oxygen consumption",
+      "solutionHtml": "<div class=\"explanation\"><p>At the ventilatory threshold, pulmonary ventilation begins to increase disproportionately relative to oxygen consumption. The illustration shows only the qualitative bend during increasing exercise intensity. It is not a calibrated exercise test and does not show a second respiratory-compensation threshold.</p><figure><img src=\"images/ventilation-557ebb7dcb86.png\" alt=\"Conceptual trend only, not measured data. The curve has no numerical scale and is not a method for determining an individual threshold.\" style=\"max-width:100%;height:auto\"/><figcaption>AI-generated teaching illustration. Conceptual trend only, not measured data. The curve has no numerical scale and is not a method for determining an individual threshold.</figcaption></figure><p><a href=\"https://www.ncbi.nlm.nih.gov/medgen/899231\" target=\"_blank\" rel=\"noopener noreferrer\">Medical reference</a></p><p>AI-illustrated practice adaptation — not the original exam image. Original wording and references preserved in editorial backup.</p></div>",
+      "tags": "",
+      "stem": "AI-illustrated practice adaptation — not the original exam image. During progressively increasing exercise, a person passes the first ventilatory threshold. Which description best characterises the change in ventilation beyond this threshold?",
+      "solution": "At the ventilatory threshold, pulmonary ventilation begins to increase disproportionately relative to oxygen consumption. The illustration shows only the qualitative bend during increasing exercise intensity. It is not a calibrated exercise test and does not show a second respiratory-compensation threshold."
+    },
+    {
+      "id": "all-in-one-1760436395738",
+      "topic": "eGurukul · Pulmonary Ventilation - Compliance & Surface Tension",
+      "number": 7,
+      "stem": "A candidate for cardiac transplantation undergoes cardiac catheterization. Hemodynamic findings include: Pulmonary Artery Pressure = 35 mmHg, Cardiac Output = 4 L/min, Left Atrial Pressure = 15 mmHg. Which of the following is his pulmonary vascular resistance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.11 L/min/mmHg"
+        },
+        {
+          "label": "B",
+          "text": "0.2 L/min/mmHg"
+        },
+        {
+          "label": "C",
+          "text": "5 mmHg/L/min"
+        },
+        {
+          "label": "D",
+          "text": "8.75 mmHg/L/min"
+        }
+      ],
+      "answer": "C",
+      "answerText": "5 mmHg/L/min",
+      "solutionHtml": "<b>5 mmHg/L/min</b><br/><ul><li>Pulmonary vascular resistance (PVR) can be calculated using the following formula:</li><li><strong>PVR = (PAP - LAP) / CO</strong></li><li>where PAP is the pulmonary artery pressure, LAP is the left atrial pressure, and CO is the cardiac output.</li><li>Substituting the given values, we get:</li><li><strong>PVR = (35 - 15) / 4</strong></li><li><strong>PVR = 20 / 4</strong></li><li><strong>PVR = 5 mmHg/L/min</strong></li><li>Therefore, the answer is (C) <strong>5 mmHg/L/min.</strong></li></ul><br/><br/><br/><div class=\"quiz-references\">Ganong's Review of Medical Physiology, 26th Edition, Page No.650.</div>",
+      "tags": ""
+    },
+    {
+      "id": "all-in-one-1760436395740",
+      "topic": "eGurukul · Pulmonary Ventilation - Compliance & Surface Tension",
+      "number": 8,
+      "stem": "Stability of alveoli maintained by?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Residual air"
+        },
+        {
+          "label": "B",
+          "text": "Increase surface area by surfactant"
+        },
+        {
+          "label": "C",
+          "text": "Negative intra pleural pressure"
+        },
+        {
+          "label": "D",
+          "text": "Lung compliance"
+        }
+      ],
+      "answer": "B",
+      "answerText": "Increase surface area by surfactant",
+      "solutionHtml": "<b>Increase surface area by surfactant</b><br/><ul><li>The stability of alveoli is maintained by the presence of surfactant, which reduces surface tension within the alveoli, allowing them to remain open during expiration. Therefore, option (B)<strong> \"increase surface area by surfactant\"</strong> is the correct answer.</li></ul><br/><br/><div class=\"quiz-references\">Ganong's Review of Medical Physiology, 26th Edition, Page No.660.</div>",
+      "tags": ""
+    }
+  ]
+}
