@@ -1,0 +1,12 @@
+{
+  "sourceTitle": "UPSC CMS 2019",
+  "totalSubjects": 1,
+  "totalQuestions": 240,
+  "subjects": {
+    "UPSC CMS Past Years Papers": {
+      "file": "/qbank/upsc-cms-past-years/2019/papers.json",
+      "totalLessons": 2,
+      "totalQuestions": 240
+    }
+  }
+}

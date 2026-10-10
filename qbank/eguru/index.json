@@ -1,0 +1,107 @@
+{
+  "sourceTitle": "E Gurukul Anki Qbank",
+  "totalSubjects": 19,
+  "totalQuestions": 22742,
+  "subjects": {
+    "Anatomy": {
+      "file": "/qbank/eguru/anatomy.json",
+      "totalLessons": 156,
+      "totalQuestions": 1800
+    },
+    "Physiology": {
+      "file": "/qbank/eguru/physiology.json",
+      "totalLessons": 94,
+      "totalQuestions": 1112
+    },
+    "Biochemistry": {
+      "file": "/qbank/eguru/biochemistry.json",
+      "totalLessons": 51,
+      "totalQuestions": 1030
+    },
+    "Pathology": {
+      "file": "/qbank/eguru/pathology.json",
+      "totalLessons": 132,
+      "totalQuestions": 1323
+    },
+    "Pharmacology": {
+      "file": "/qbank/eguru/pharmacology.json",
+      "totalLessons": 114,
+      "totalQuestions": 1591
+    },
+    "Microbiology": {
+      "file": "/qbank/eguru/microbiology.json",
+      "totalLessons": 88,
+      "totalQuestions": 1359
+    },
+    "Forensic Medicine": {
+      "file": "/qbank/eguru/forensic-medicine.json",
+      "totalLessons": 101,
+      "totalQuestions": 909
+    },
+    "Community Medicine": {
+      "file": "/qbank/eguru/community-medicine.json",
+      "totalLessons": 44,
+      "totalQuestions": 1285
+    },
+    "ENT": {
+      "file": "/qbank/eguru/ent.json",
+      "totalLessons": 89,
+      "totalQuestions": 813
+    },
+    "Ophthalmology": {
+      "file": "/qbank/eguru/ophthalmology.json",
+      "totalLessons": 27,
+      "totalQuestions": 293
+    },
+    "Medicine": {
+      "file": "/qbank/eguru/medicine.json",
+      "totalLessons": 344,
+      "totalQuestions": 4510
+    },
+    "Surgery": {
+      "file": "/qbank/eguru/surgery.json",
+      "totalLessons": 109,
+      "totalQuestions": 2093
+    },
+    "Obstetrics & Gynecology": {
+      "file": "/qbank/eguru/obstetrics-gynecology.json",
+      "totalLessons": 102,
+      "totalQuestions": 1616
+    },
+    "Pediatrics": {
+      "file": "/qbank/eguru/pediatrics.json",
+      "totalLessons": 22,
+      "totalQuestions": 238
+    },
+    "Orthopedics": {
+      "file": "/qbank/eguru/orthopedics.json",
+      "totalLessons": 61,
+      "totalQuestions": 775
+    },
+    "Dermatology": {
+      "file": "/qbank/eguru/dermatology.json",
+      "totalLessons": 41,
+      "totalQuestions": 542
+    },
+    "Psychiatry": {
+      "file": "/qbank/eguru/psychiatry.json",
+      "totalLessons": 23,
+      "totalQuestions": 163
+    },
+    "Radiology": {
+      "file": "/qbank/eguru/radiology.json",
+      "totalLessons": 37,
+      "totalQuestions": 472
+    },
+    "Anesthesiology": {
+      "file": "/qbank/eguru/anesthesiology.json",
+      "totalLessons": 40,
+      "totalQuestions": 818
+    }
+  },
+  "media": {
+    "referenced": 4173,
+    "copiedNow": 4173,
+    "path": "/qbank/eguru-media/"
+  }
+}

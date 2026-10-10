@@ -1,0 +1,107 @@
+{
+  "sourceTitle": "Marrow PYQ Orientated",
+  "totalSubjects": 19,
+  "totalQuestions": 9974,
+  "subjects": {
+    "Anatomy": {
+      "file": "/qbank/marrow-pyq-orientated/anatomy.json",
+      "totalLessons": 15,
+      "totalQuestions": 550
+    },
+    "Physiology": {
+      "file": "/qbank/marrow-pyq-orientated/physiology.json",
+      "totalLessons": 30,
+      "totalQuestions": 540
+    },
+    "Biochemistry": {
+      "file": "/qbank/marrow-pyq-orientated/biochemistry.json",
+      "totalLessons": 30,
+      "totalQuestions": 522
+    },
+    "Pathology": {
+      "file": "/qbank/marrow-pyq-orientated/pathology.json",
+      "totalLessons": 30,
+      "totalQuestions": 832
+    },
+    "Pharmacology": {
+      "file": "/qbank/marrow-pyq-orientated/pharmacology.json",
+      "totalLessons": 30,
+      "totalQuestions": 800
+    },
+    "Microbiology": {
+      "file": "/qbank/marrow-pyq-orientated/microbiology.json",
+      "totalLessons": 30,
+      "totalQuestions": 660
+    },
+    "Forensic Medicine": {
+      "file": "/qbank/marrow-pyq-orientated/forensic-medicine.json",
+      "totalLessons": 30,
+      "totalQuestions": 402
+    },
+    "Community Medicine": {
+      "file": "/qbank/marrow-pyq-orientated/community-medicine.json",
+      "totalLessons": 30,
+      "totalQuestions": 684
+    },
+    "ENT": {
+      "file": "/qbank/marrow-pyq-orientated/ent.json",
+      "totalLessons": 30,
+      "totalQuestions": 272
+    },
+    "Ophthalmology": {
+      "file": "/qbank/marrow-pyq-orientated/ophthalmology.json",
+      "totalLessons": 30,
+      "totalQuestions": 368
+    },
+    "Medicine": {
+      "file": "/qbank/marrow-pyq-orientated/medicine.json",
+      "totalLessons": 30,
+      "totalQuestions": 954
+    },
+    "Surgery": {
+      "file": "/qbank/marrow-pyq-orientated/surgery.json",
+      "totalLessons": 30,
+      "totalQuestions": 858
+    },
+    "Obstetrics & Gynecology": {
+      "file": "/qbank/marrow-pyq-orientated/obstetrics-gynecology.json",
+      "totalLessons": 30,
+      "totalQuestions": 878
+    },
+    "Pediatrics": {
+      "file": "/qbank/marrow-pyq-orientated/pediatrics.json",
+      "totalLessons": 30,
+      "totalQuestions": 402
+    },
+    "Orthopedics": {
+      "file": "/qbank/marrow-pyq-orientated/orthopedics.json",
+      "totalLessons": 30,
+      "totalQuestions": 340
+    },
+    "Dermatology": {
+      "file": "/qbank/marrow-pyq-orientated/dermatology.json",
+      "totalLessons": 30,
+      "totalQuestions": 272
+    },
+    "Psychiatry": {
+      "file": "/qbank/marrow-pyq-orientated/psychiatry.json",
+      "totalLessons": 30,
+      "totalQuestions": 208
+    },
+    "Radiology": {
+      "file": "/qbank/marrow-pyq-orientated/radiology.json",
+      "totalLessons": 30,
+      "totalQuestions": 228
+    },
+    "Anesthesiology": {
+      "file": "/qbank/marrow-pyq-orientated/anesthesiology.json",
+      "totalLessons": 30,
+      "totalQuestions": 204
+    }
+  },
+  "media": {
+    "referenced": 8238,
+    "copiedNow": 8238,
+    "path": "/qbank/marrow-pyq-orientated-media/"
+  }
+}
